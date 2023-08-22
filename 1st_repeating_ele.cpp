@@ -30,6 +30,6 @@ int repeating_ele(vector<int>& arr){
 int main()
 {
     vector<int> arr{1,6,3,4,4,5,9,7,2,9};
-    cout<<"Index: "<<repeating_ele_01(arr);
+    cout<<"Index: "<<repeating_ele_01(arr)<<endl;
     return 0;
 }
